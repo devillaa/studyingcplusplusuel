@@ -1,0 +1,9 @@
+Olá professor Senhor Rafael Jaques, tenho quase certeza q vc sabe isso, mas segue ai um tutorial como rodar códigos c++ hehehehehheheha
+
+- Instalar o MinGW-w64 (compilador g++)
+- Adicionar a pasta bin do MinGW ao PATH nas variáveis de ambiente ( Acha o Local do MinGW, abre ele vai na pasta BIN e copia o caminho)
+- Testar o compilador com g++ --version no cmd
+- Instalar as extensões C/C++ (Microsoft) e Code Runner no VSCODEnossoDECADADIA
+- Criar a pasta de projeto e o arquivo teste.cpp ou oq vc quiser papai
+- Compilar com g++ teste.cpp -o teste.exe para que o computador entenda o código
+- Abrir o local do arquivo no terminal e rodar com ./teste.exe (teste significa na vdd o nome do arquivo ne)
